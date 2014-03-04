@@ -10,5 +10,6 @@ Mainly for China ISP:
        'CMCC',
        'CRTC',
     )
-    
+
+wget http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest -O FILE  
     
